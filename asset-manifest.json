@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amanyadav/static/css/main.90286625.css",
-    "main.js": "/amanyadav/static/js/main.0e26b898.js",
+    "main.css": "/amanyadav/static/css/main.423c1bc9.css",
+    "main.js": "/amanyadav/static/js/main.c3f6a875.js",
     "static/js/787.1f11dfe9.chunk.js": "/amanyadav/static/js/787.1f11dfe9.chunk.js",
     "static/media/Aman.jpg": "/amanyadav/static/media/Aman.bf2e54ae08d3eb772aef.jpg",
     "static/media/chakraLogo.png": "/amanyadav/static/media/chakraLogo.43b5b7977014e982e943.png",
@@ -13,12 +13,12 @@
     "static/media/cssLogo.png": "/amanyadav/static/media/cssLogo.1a57e67ac1fd2ea84d64.png",
     "static/media/htmlLogo.png": "/amanyadav/static/media/htmlLogo.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/amanyadav/index.html",
-    "main.90286625.css.map": "/amanyadav/static/css/main.90286625.css.map",
-    "main.0e26b898.js.map": "/amanyadav/static/js/main.0e26b898.js.map",
+    "main.423c1bc9.css.map": "/amanyadav/static/css/main.423c1bc9.css.map",
+    "main.c3f6a875.js.map": "/amanyadav/static/js/main.c3f6a875.js.map",
     "787.1f11dfe9.chunk.js.map": "/amanyadav/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90286625.css",
-    "static/js/main.0e26b898.js"
+    "static/css/main.423c1bc9.css",
+    "static/js/main.c3f6a875.js"
   ]
 }
