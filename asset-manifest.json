@@ -1,17 +1,24 @@
 {
   "files": {
-    "main.css": "/amanyadav/static/css/main.4ac07c13.css",
-    "main.js": "/amanyadav/static/js/main.8aa61b72.js",
+    "main.css": "/amanyadav/static/css/main.b3297078.css",
+    "main.js": "/amanyadav/static/js/main.5d4993fb.js",
     "static/js/787.1f11dfe9.chunk.js": "/amanyadav/static/js/787.1f11dfe9.chunk.js",
     "static/media/Aman.jpg": "/amanyadav/static/media/Aman.bf2e54ae08d3eb772aef.jpg",
+    "static/media/chakraLogo.png": "/amanyadav/static/media/chakraLogo.43b5b7977014e982e943.png",
+    "static/media/postmanLogo.png": "/amanyadav/static/media/postmanLogo.94fc1b616e260ffd2341.png",
+    "static/media/reduxLogo.png": "/amanyadav/static/media/reduxLogo.4d04114b5b4a64fd1d82.png",
+    "static/media/mongoLogo.png": "/amanyadav/static/media/mongoLogo.1ed52a5d81171850c83c.png",
     "static/media/display-img.webp": "/amanyadav/static/media/display-img.9a6d994b428b8bcc2fbd.webp",
+    "static/media/nodejsLogo.png": "/amanyadav/static/media/nodejsLogo.17de48824601204397b4.png",
+    "static/media/cssLogo.png": "/amanyadav/static/media/cssLogo.1a57e67ac1fd2ea84d64.png",
+    "static/media/htmlLogo.png": "/amanyadav/static/media/htmlLogo.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/amanyadav/index.html",
-    "main.4ac07c13.css.map": "/amanyadav/static/css/main.4ac07c13.css.map",
-    "main.8aa61b72.js.map": "/amanyadav/static/js/main.8aa61b72.js.map",
+    "main.b3297078.css.map": "/amanyadav/static/css/main.b3297078.css.map",
+    "main.5d4993fb.js.map": "/amanyadav/static/js/main.5d4993fb.js.map",
     "787.1f11dfe9.chunk.js.map": "/amanyadav/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ac07c13.css",
-    "static/js/main.8aa61b72.js"
+    "static/css/main.b3297078.css",
+    "static/js/main.5d4993fb.js"
   ]
 }
