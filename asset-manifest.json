@@ -1,9 +1,13 @@
 {
   "files": {
-    "main.css": "/amanyadav/static/css/main.b19b4aeb.css",
-    "main.js": "/amanyadav/static/js/main.f9d8ae8c.js",
+    "main.css": "/amanyadav/static/css/main.0df793c2.css",
+    "main.js": "/amanyadav/static/js/main.11789b94.js",
     "static/js/787.1f11dfe9.chunk.js": "/amanyadav/static/js/787.1f11dfe9.chunk.js",
+    "static/media/Bellavita.gif": "/amanyadav/static/media/Bellavita.d7e25bd3484e30763b96.gif",
+    "static/media/Airgarage.gif": "/amanyadav/static/media/Airgarage.1da365b66dd9bc2d9260.gif",
+    "static/media/bellavitaImg.png": "/amanyadav/static/media/bellavitaImg.29231317255f88aa8d23.png",
     "static/media/Aman.jpg": "/amanyadav/static/media/Aman.bf2e54ae08d3eb772aef.jpg",
+    "static/media/airgarageImg.png": "/amanyadav/static/media/airgarageImg.fabe226c393ceaa492f0.png",
     "static/media/chakraLogo.png": "/amanyadav/static/media/chakraLogo.43b5b7977014e982e943.png",
     "static/media/postmanLogo.png": "/amanyadav/static/media/postmanLogo.94fc1b616e260ffd2341.png",
     "static/media/reduxLogo.png": "/amanyadav/static/media/reduxLogo.4d04114b5b4a64fd1d82.png",
@@ -13,12 +17,12 @@
     "static/media/cssLogo.png": "/amanyadav/static/media/cssLogo.1a57e67ac1fd2ea84d64.png",
     "static/media/htmlLogo.png": "/amanyadav/static/media/htmlLogo.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/amanyadav/index.html",
-    "main.b19b4aeb.css.map": "/amanyadav/static/css/main.b19b4aeb.css.map",
-    "main.f9d8ae8c.js.map": "/amanyadav/static/js/main.f9d8ae8c.js.map",
+    "main.0df793c2.css.map": "/amanyadav/static/css/main.0df793c2.css.map",
+    "main.11789b94.js.map": "/amanyadav/static/js/main.11789b94.js.map",
     "787.1f11dfe9.chunk.js.map": "/amanyadav/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b19b4aeb.css",
-    "static/js/main.f9d8ae8c.js"
+    "static/css/main.0df793c2.css",
+    "static/js/main.11789b94.js"
   ]
 }
