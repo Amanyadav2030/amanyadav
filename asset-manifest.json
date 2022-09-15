@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amanyadav/static/css/main.7c7efe2f.css",
-    "main.js": "/amanyadav/static/js/main.ca79f097.js",
+    "main.css": "/amanyadav/static/css/main.c9f00335.css",
+    "main.js": "/amanyadav/static/js/main.487830da.js",
     "static/js/787.1f11dfe9.chunk.js": "/amanyadav/static/js/787.1f11dfe9.chunk.js",
     "static/media/Bellavita.gif": "/amanyadav/static/media/Bellavita.d7e25bd3484e30763b96.gif",
     "static/media/Airgarage.gif": "/amanyadav/static/media/Airgarage.1da365b66dd9bc2d9260.gif",
@@ -19,12 +19,12 @@
     "static/media/cssLogo.png": "/amanyadav/static/media/cssLogo.1a57e67ac1fd2ea84d64.png",
     "static/media/htmlLogo.png": "/amanyadav/static/media/htmlLogo.ff3cf75e3b7cbb4ea77c.png",
     "index.html": "/amanyadav/index.html",
-    "main.7c7efe2f.css.map": "/amanyadav/static/css/main.7c7efe2f.css.map",
-    "main.ca79f097.js.map": "/amanyadav/static/js/main.ca79f097.js.map",
+    "main.c9f00335.css.map": "/amanyadav/static/css/main.c9f00335.css.map",
+    "main.487830da.js.map": "/amanyadav/static/js/main.487830da.js.map",
     "787.1f11dfe9.chunk.js.map": "/amanyadav/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c7efe2f.css",
-    "static/js/main.ca79f097.js"
+    "static/css/main.c9f00335.css",
+    "static/js/main.487830da.js"
   ]
 }
