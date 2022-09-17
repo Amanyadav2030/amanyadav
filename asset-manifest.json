@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amanyadav/static/css/main.393973f1.css",
-    "main.js": "/amanyadav/static/js/main.1a1ff13c.js",
+    "main.css": "/amanyadav/static/css/main.2a2f8682.css",
+    "main.js": "/amanyadav/static/js/main.dc0b84f4.js",
     "static/js/787.1f11dfe9.chunk.js": "/amanyadav/static/js/787.1f11dfe9.chunk.js",
     "static/media/bellavitaImg.png": "/amanyadav/static/media/bellavitaImg.29231317255f88aa8d23.png",
     "static/media/Aman.jpg": "/amanyadav/static/media/Aman.bf2e54ae08d3eb772aef.jpg",
@@ -20,12 +20,12 @@
     "static/media/github.svg": "/amanyadav/static/media/github.c08353563539c6459b353f29d8dd7bf2.svg",
     "index.html": "/amanyadav/index.html",
     "static/media/html.svg": "/amanyadav/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
-    "main.393973f1.css.map": "/amanyadav/static/css/main.393973f1.css.map",
-    "main.1a1ff13c.js.map": "/amanyadav/static/js/main.1a1ff13c.js.map",
+    "main.2a2f8682.css.map": "/amanyadav/static/css/main.2a2f8682.css.map",
+    "main.dc0b84f4.js.map": "/amanyadav/static/js/main.dc0b84f4.js.map",
     "787.1f11dfe9.chunk.js.map": "/amanyadav/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.393973f1.css",
-    "static/js/main.1a1ff13c.js"
+    "static/css/main.2a2f8682.css",
+    "static/js/main.dc0b84f4.js"
   ]
 }
