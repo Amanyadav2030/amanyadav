@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amanyadav/static/css/main.19cb53bb.css",
-    "main.js": "/amanyadav/static/js/main.057a584d.js",
+    "main.css": "/amanyadav/static/css/main.d960cda8.css",
+    "main.js": "/amanyadav/static/js/main.f62577ec.js",
     "static/js/787.1f11dfe9.chunk.js": "/amanyadav/static/js/787.1f11dfe9.chunk.js",
     "static/media/Aman.jpg": "/amanyadav/static/media/Aman.bf2e54ae08d3eb772aef.jpg",
     "static/media/emailGif.gif": "/amanyadav/static/media/emailGif.d09d8d90cc9c12614dc5.gif",
@@ -18,12 +18,12 @@
     "static/media/github.svg": "/amanyadav/static/media/github.c08353563539c6459b353f29d8dd7bf2.svg",
     "index.html": "/amanyadav/index.html",
     "static/media/html.svg": "/amanyadav/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
-    "main.19cb53bb.css.map": "/amanyadav/static/css/main.19cb53bb.css.map",
-    "main.057a584d.js.map": "/amanyadav/static/js/main.057a584d.js.map",
+    "main.d960cda8.css.map": "/amanyadav/static/css/main.d960cda8.css.map",
+    "main.f62577ec.js.map": "/amanyadav/static/js/main.f62577ec.js.map",
     "787.1f11dfe9.chunk.js.map": "/amanyadav/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19cb53bb.css",
-    "static/js/main.057a584d.js"
+    "static/css/main.d960cda8.css",
+    "static/js/main.f62577ec.js"
   ]
 }
