@@ -1,15 +1,29 @@
 {
   "files": {
-    "main.css": "/amanyadav/static/css/main.da7eb4bd.css",
-    "main.js": "/amanyadav/static/js/main.e28b57be.js",
+    "main.css": "/amanyadav/static/css/main.19cb53bb.css",
+    "main.js": "/amanyadav/static/js/main.057a584d.js",
     "static/js/787.1f11dfe9.chunk.js": "/amanyadav/static/js/787.1f11dfe9.chunk.js",
+    "static/media/Aman.jpg": "/amanyadav/static/media/Aman.bf2e54ae08d3eb772aef.jpg",
+    "static/media/emailGif.gif": "/amanyadav/static/media/emailGif.d09d8d90cc9c12614dc5.gif",
+    "static/media/chakra.png": "/amanyadav/static/media/chakra.15320604467d004df871.png",
+    "static/media/emailImg.png": "/amanyadav/static/media/emailImg.760dc2786bcdcff9db26.png",
+    "static/media/mongoose.png": "/amanyadav/static/media/mongoose.51275a001caf5e6e30d4.png",
+    "static/media/mongodb.svg": "/amanyadav/static/media/mongodb.6835c61a518a732eb8318d43dfe8f700.svg",
+    "static/media/react.svg": "/amanyadav/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/nodejs.svg": "/amanyadav/static/media/nodejs.10c9e2aa0ca7edf36fceae25fec038a1.svg",
+    "static/media/redux.svg": "/amanyadav/static/media/redux.7fe607aacc31f6e6199e70f16aae407e.svg",
+    "static/media/javascript.svg": "/amanyadav/static/media/javascript.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/express.svg": "/amanyadav/static/media/express.4925c0127df8857c18b38329795ce88f.svg",
+    "static/media/css.svg": "/amanyadav/static/media/css.39769a8bd378bf410d6b381a8d88fa35.svg",
+    "static/media/github.svg": "/amanyadav/static/media/github.c08353563539c6459b353f29d8dd7bf2.svg",
     "index.html": "/amanyadav/index.html",
-    "main.da7eb4bd.css.map": "/amanyadav/static/css/main.da7eb4bd.css.map",
-    "main.e28b57be.js.map": "/amanyadav/static/js/main.e28b57be.js.map",
+    "static/media/html.svg": "/amanyadav/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
+    "main.19cb53bb.css.map": "/amanyadav/static/css/main.19cb53bb.css.map",
+    "main.057a584d.js.map": "/amanyadav/static/js/main.057a584d.js.map",
     "787.1f11dfe9.chunk.js.map": "/amanyadav/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da7eb4bd.css",
-    "static/js/main.e28b57be.js"
+    "static/css/main.19cb53bb.css",
+    "static/js/main.057a584d.js"
   ]
 }
