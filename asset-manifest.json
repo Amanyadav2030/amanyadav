@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/amanyadav/static/css/main.8a8b7398.css",
-    "main.js": "/amanyadav/static/js/main.821313f4.js",
+    "main.js": "/amanyadav/static/js/main.588a4f62.js",
     "static/js/787.1f11dfe9.chunk.js": "/amanyadav/static/js/787.1f11dfe9.chunk.js",
     "static/media/bellavitaImg.png": "/amanyadav/static/media/bellavitaImg.29231317255f88aa8d23.png",
     "static/media/Aman.jpg": "/amanyadav/static/media/Aman.bf2e54ae08d3eb772aef.jpg",
@@ -22,11 +22,11 @@
     "index.html": "/amanyadav/index.html",
     "static/media/html.svg": "/amanyadav/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "main.8a8b7398.css.map": "/amanyadav/static/css/main.8a8b7398.css.map",
-    "main.821313f4.js.map": "/amanyadav/static/js/main.821313f4.js.map",
+    "main.588a4f62.js.map": "/amanyadav/static/js/main.588a4f62.js.map",
     "787.1f11dfe9.chunk.js.map": "/amanyadav/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a8b7398.css",
-    "static/js/main.821313f4.js"
+    "static/js/main.588a4f62.js"
   ]
 }
